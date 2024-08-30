@@ -11,7 +11,7 @@ I can help take your front-end project to the next level, whether you want to re
 - ` git ` good
 
 ## 🤔 ABOUT ME?
-Hi! I'm Amir, a Front-End Developer with a passion for crafting intuitive and dynamic user interfaces. Skilled in React, JavaScript, HTML5, and CSS3, I enjoy turning complex challenges into user-friendly designs. My focus is on building seamless web applications with a strong user experience.
+Hi! I'm Javad, a Front-End Developer with a passion for crafting intuitive and dynamic user interfaces. Skilled in React, JavaScript, HTML5, and CSS3, I enjoy turning complex challenges into user-friendly designs. My focus is on building seamless web applications with a strong user experience.
 
 I'm constantly learning and exploring new technologies, especially advanced React features and web performance optimization. Alongside my projects, I also freelance—so if you're hiring, let's connect!
 Programming is more than a job for me; it’s a passion. Whether working in a team or solo, I’m always eager to contribute and grow.
